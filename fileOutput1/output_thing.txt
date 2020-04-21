@@ -1,0 +1,5 @@
+name1,address1,phone
+name2,address2,phone
+name3,address3,phone
+Cynthia,address4,phone
+Tia,address5,phone
